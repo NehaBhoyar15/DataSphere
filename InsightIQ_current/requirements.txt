@@ -16,3 +16,6 @@ pytest-qt>=4.2
 # WordCloud>=1.9
 # prophet>=1.1
 # pmdarima>=2.0
+
+streamlit
+openpyxl
